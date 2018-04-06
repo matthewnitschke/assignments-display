@@ -1,0 +1,14 @@
+{
+  "name": "assignments-display",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
+    "chalk": "^2.3.2",
+    "gist.js": "^0.0.1",
+    "googleapis": "^28.1.0",
+    "moment": "^2.22.0"
+  }
+}

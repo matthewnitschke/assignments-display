@@ -1,0 +1,12 @@
+{
+	"gist": {
+		"gistID": "<gistID>",
+		"gistToken": "<personal access token>",
+		"gistFilename": "<gist file name>"
+	},
+	"googleCalendar": {
+		"clientEmail": "",
+		"privateKey": "",
+		"calendarId": ""
+	}
+}
