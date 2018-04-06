@@ -1,4 +1,4 @@
-# assignments display
+# Assignments Display
 A node js, blessed calendar display for homework assignments and events. Powered by google calendar and gist.
 
 # Installation
